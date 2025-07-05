@@ -27,10 +27,10 @@ This project implements a simple sentiment analysis model to classify text (e.g.
 
 ```bash
 pip install tensorflow matplotlib
-
+```
 2️⃣ Run training:
 
 ```bash
 python main.py
-
+```
 3️⃣ Use the trained model to predict sentiment on new sentences.
